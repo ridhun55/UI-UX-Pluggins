@@ -19,3 +19,26 @@
 # interfacer - https://interfacer.xyz/
 
 # freebiesupply - https://freebiesupply.com/free-figma/
+
+#transform translate
+```shell
+div:hover{
+    curser : pointer;
+    transition : all 2s linear;
+    transform : rotate(10deg); / transform : translateX(10px);
+
+```
+
+# transition Property
+```shell
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
+
+div:hover {
+  width: 300px;
+}
+```
