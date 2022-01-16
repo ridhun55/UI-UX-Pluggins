@@ -1,7 +1,7 @@
 # UI-UX-Pluggins
 
 # Colour Generator 
-mycolor- https://mycolor.space/
+mycolor- https://mycolor.space/ <br/><br/>
 eggradients - https://www.eggradients.com/
 
 # UI Images
