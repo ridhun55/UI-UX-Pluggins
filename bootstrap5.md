@@ -18,26 +18,27 @@
 
 Navbar
 ```shell
-<div class="m-4">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-            <a href="#" class="navbar-brand">
-                <img src="/examples/images/logo.svg" height="28" alt="CoolBrand">
-            </a>
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto">
-                    <a href="#" class="nav-item nav-link active">Home</a>
-                    <a href="#" class="nav-item nav-link">Profile</a>
-                    <a href="#" class="nav-item nav-link">Messages</a>
-                    <a href="#" class="nav-item nav-link disabled" tabindex="-1">Reports</a>
-                </div>
-            </div>
-        </div>
-    </nav>
-</div>
+<div class="p-4">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background: linear-gradient(90deg, #0C4AA8 0%, #EB12A9 100%);border-bottom: solid rgba(255, 255, 255, 0.527) 1px;">
+          <div class="container">
+              <a href="#" class="navbar-brand">
+                  <img src="images/image.png" height="28" alt="CoolBrand">
+                  <span>CoolBrand</span>
+              </a>
+              <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                  <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarCollapse">
+                  <div class="navbar-nav ms-auto">
+                      <a href="#" class="nav-item nav-link active"><strong>Home</strong></a>
+                      <a href="#" class="nav-item nav-link">Profile</a>
+                      <a href="#" class="nav-item nav-link">Profile</a>
+                      <a href="#" class="nav-item nav-link">Profile</a>
+                  </div>
+              </div>
+          </div>
+      </nav>
+  </div>
 ```
 Font Awesome - https://fontawesome.com/v5.15/icons?d=gallery&p=2
 ```shell
