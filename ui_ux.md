@@ -1,5 +1,9 @@
 # UI-UX-Pluggins
 
+# Colour Generator - https://mycolor.space/
+
+# eggradients - https://www.eggradients.com/
+
 # unDraw - https://undraw.co/illustrations/
 
 # illlustrations - https://illlustrations.co/
