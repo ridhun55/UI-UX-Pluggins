@@ -39,7 +39,7 @@ Navbar
     </nav>
 </div>
 ```
-Font Awesome
+Font Awesome - https://fontawesome.com/v5.15/icons?d=gallery&p=2
 ```shell
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
 ```
