@@ -33,4 +33,32 @@ Button class
 .btn:active, .btn.active, .btn .active{
   background:red;
 }
+``
+
+button primary
+
+```html
+.btn-primary {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
+.btn-primary:focus {
+  color: #fff;
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+  box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5);
+}
+.btn:active, .btn.active, .btn .active{
+  color: #fff;
+  background-color: #0a58ca;
+  border-color: #0a53be;
+}
+
 ```
+
