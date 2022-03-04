@@ -33,7 +33,7 @@ Button class
 .btn:active, .btn.active, .btn .active{
   background:red;
 }
-``
+```
 
 button primary
 
