@@ -37,7 +37,7 @@ Button class
 
 button primary
 
-```html
+```css
 .btn-primary {
   color: #fff;
   background-color: #0d6efd;
