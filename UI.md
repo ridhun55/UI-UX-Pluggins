@@ -30,7 +30,8 @@
 # Colours
 1. mycolor.space - https://mycolor.space/?hex=%23845EC2&sub=1
 2. canva - https://www.canva.com/colors/
-3. colour code - https://www.computerhope.com/htmcolor.htm
+3. eggradients - https://www.eggradients.com/
+4. colour code - https://www.computerhope.com/htmcolor.htm
 
 # Free Images
 1. unsplash - https://unsplash.com/
