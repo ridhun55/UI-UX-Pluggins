@@ -10,6 +10,7 @@
 1. icon8 - https://icons8.com/icon/set/popular/clouds
 2. coonicon - https://coonicon.com/#icons
 3. drawkit [ Vector Icons ] - https://drawkit.com/free-icons
+4. 3dicons - https://www.3dicons.com/
 
 # UI Kit & Mockups 
 1. freebiesupply.com - https://freebiesupply.com/free-sketch-mockups/
