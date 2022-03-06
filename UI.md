@@ -16,6 +16,10 @@
 3. drawkit [ Vector Icons ] - https://drawkit.com/free-icons
 4. 3dicons - https://www.3dicons.com/
 5. flaticon - https://www.flaticon.com/icons
+6. fontawesome - https://fontawesome.com/search
+7. Html Arrows - https://www.toptal.com/designers/htmlarrows/symbols/
+8. macOS Icons - https://bigsuricons.webflow.io/
+9. preloader, [ icons, background ] - https://loading.io/spinner/
 
 # UI Kit & Mockups 
 1. Mockups Illustrations UI Tools - https://www.ls.graphics/
