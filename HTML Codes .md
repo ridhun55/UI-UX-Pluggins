@@ -5,6 +5,28 @@
               inset 0 1px 2px rgba(0, 0, 0, 0.24);
 ```
 
+2. Transform
+```css
+  div:hover{
+      curser : pointer;
+      transition : all 2s linear;
+      transform : rotate(10deg); / transform : translateX(10px);
+```
+
+3. Transition Property
+```css
+  div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+  }
+
+  div:hover {
+    width: 300px;
+  }
+```
+
 # HTML
 1. <b>Bootstrap5 CDN</b> [ fontawesome + OWL ]
 ```html
