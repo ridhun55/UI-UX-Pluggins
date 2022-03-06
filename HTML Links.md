@@ -36,6 +36,8 @@
 1. html validator - https://validator.w3.org/
 2. Dummy Text Generator - https://generator.lorem-ipsum.info/_latin
 3. Screenshots with JavaScript - https://html2canvas.hertzen.com/
+4. tutorialrepublic - https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-fixed-layout.php
+5. netlify - https://app.netlify.com/teams/ridhunkeltron/sites
 
 # Content Writting
 1. spinbot - https://spinbot.com/
