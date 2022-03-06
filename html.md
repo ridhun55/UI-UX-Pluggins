@@ -13,13 +13,6 @@
 8. Bulma - https://bulma.io/
 9. mini.css - https://minicss.org/docs
 
-# Icons
-1. fontawesome - https://fontawesome.com/search
-2. Html Arrows - https://www.toptal.com/designers/htmlarrows/symbols/
-3. 3dicons - https://www.3dicons.com/
-4. preloader, [ icons, background ] - https://loading.io/spinner/
-5. macOS Icons - https://bigsuricons.webflow.io/
-
 # Syntax highlighter
 1. https://pinetools.com/syntax-highlighter
 
