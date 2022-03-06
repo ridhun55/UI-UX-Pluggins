@@ -15,8 +15,10 @@
 
 # Icons
 1. fontawesome - https://fontawesome.com/search
-2. 3dicons - https://www.3dicons.com/
-3. preloader, [ icons, background ] - https://loading.io/spinner/
+2. Html Arrows - https://www.toptal.com/designers/htmlarrows/symbols/
+3. 3dicons - https://www.3dicons.com/
+4. preloader, [ icons, background ] - https://loading.io/spinner/
+5. macOS Icons - https://bigsuricons.webflow.io/
 
 # Syntax highlighter
 1. https://pinetools.com/syntax-highlighter
@@ -31,10 +33,11 @@
 2. AOS Animation On Scroll - https://michalsnik.github.io/aos/
 3. Animejs - https://animejs.com/
 4. Typed.js - https://mattboldt.com/demos/typed-js/
-5. Web Animations - https://greensock.com/
-6. Audio library - https://howlerjs.com/
-7. Alerts - https://sweetalert2.github.io/#examples
-8. Cleave.js - https://nosir.github.io/cleave.js/
+5. typeitjs - https://www.typeitjs.com/
+6. Web Animations - https://greensock.com/
+7. Audio library - https://howlerjs.com/
+8. Alerts - https://sweetalert2.github.io/#examples
+9. Cleave.js - https://nosir.github.io/cleave.js/
 
 # Others
 1. Dummy Text Generator - https://generator.lorem-ipsum.info/_latin
