@@ -24,7 +24,7 @@
 # UI Kit & Mockups 
 1. Mockups Illustrations UI Tools - https://www.ls.graphics/
 2. freebiesupply.com - https://freebiesupply.com/free-sketch-mockups/
-3. dribbble - doddhttps://dribbble.com/shots/popular/illustration
+3. dribbble - https://dribbble.com/shots/popular/illustration
 4. freebiesui - https://freebiesui.com/
 
 # Colours
