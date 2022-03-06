@@ -40,5 +40,14 @@
 9. Cleave.js - https://nosir.github.io/cleave.js/
 
 # Others
-1. Dummy Text Generator - https://generator.lorem-ipsum.info/_latin
-2. Screenshots with JavaScript - https://html2canvas.hertzen.com/
+1. html validator - https://validator.w3.org/
+2. Dummy Text Generator - https://generator.lorem-ipsum.info/_latin
+3. Screenshots with JavaScript - https://html2canvas.hertzen.com/
+
+# Content Writting
+1. spinbot - https://spinbot.com/
+2. word counter - https://wordcounter.net/
+
+
+
+
