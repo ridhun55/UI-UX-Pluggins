@@ -6,7 +6,7 @@
 ```
 
 # HTML
-1. Bootstrap5 CDN [ fontawesome + OWL ]
+1. <b>Bootstrap5 CDN</b> [ fontawesome + OWL ]
 ```html
   <!DOCTYPE html>
   <html lang="en">
@@ -55,5 +55,5 @@
       </body>
   </html>
 ```
-Fontawesome - https://fontawesome.com/v5/search
+Fontawesome - https://fontawesome.com/v5/search <br/>
 OWL - https://owlcarousel2.github.io/OwlCarousel2/
