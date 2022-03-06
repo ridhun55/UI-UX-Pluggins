@@ -13,8 +13,14 @@
 1. https://pinetools.com/syntax-highlighter
 
 # JavaScript Library
-1. AOS Animation On Scroll - https://michalsnik.github.io/aos/
-2. Animejs - https://animejs.com/
+1. OWL - https://owlcarousel2.github.io/OwlCarousel2/demos/autoplay.html
+2. AOS Animation On Scroll - https://michalsnik.github.io/aos/
+3. Animejs - https://animejs.com/
+4. Web Animations - https://greensock.com/
+5. Audio library - https://howlerjs.com/
+6. Alerts - https://sweetalert2.github.io/#examples
+7. Cleave.js - https://nosir.github.io/cleave.js/
 
 # Others
 1. Dummy Text Generator - https://generator.lorem-ipsum.info/_latin
+2. 
