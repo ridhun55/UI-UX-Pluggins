@@ -79,3 +79,67 @@
 ```
 Fontawesome - https://fontawesome.com/v5/search <br/>
 OWL - https://owlcarousel2.github.io/OwlCarousel2/
+<br/>
+
+
+2. <b>Scroll To Top</b> 
+
+```html
+  <a href="#" class="scrollToTop"><i class="fad fa-arrow-alt-to-top"></i></a>
+  <!-- scrollToTop -->
+  <script src="./scrollToTop.js"
+
+```
+
+```css
+
+.scrollToTop {
+  padding: 8px;
+  border-radius: 30px;
+  text-align: center;
+  background: transparent;
+  border: 2px solid var(--green);
+  font-size: 18px;
+  color: var(--green);
+  text-decoration: none;
+  position: fixed;
+  bottom: 25px;
+  right: 40px;
+  display: none;
+  z-index: 1000;
+  transform: rotate(180deg);
+  transition: 0.3s ease-in-out;
+}
+
+.scrollToTop:hover {
+  text-decoration: none;
+  color: var(--white);
+  background: var(--green);
+}
+
+```
+
+```js
+
+
+$(document).ready(function () {
+
+   //Check to see if the window is top if not then display button
+   $(window).scroll(function () {
+      if ($(this).scrollTop() > 100) {
+      $('.scrollToTop').fadeIn();
+      } else {
+      $('.scrollToTop').fadeOut();
+      }
+   });
+
+   //Click event to scroll to top
+   $('.scrollToTop').click(function () {
+      $('html, body').animate({ scrollTop: 0 }, 800);
+      return false;
+   });
+
+});
+
+
+```
