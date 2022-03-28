@@ -101,9 +101,9 @@ OWL - https://owlcarousel2.github.io/OwlCarousel2/
   border-radius: 30px;
   text-align: center;
   background: transparent;
-  border: 2px solid var(--green);
+  border: 2px solid green;
   font-size: 18px;
-  color: var(--green);
+  color: green;
   text-decoration: none;
   position: fixed;
   bottom: 25px;
@@ -116,8 +116,8 @@ OWL - https://owlcarousel2.github.io/OwlCarousel2/
 
 .scrollToTop:hover {
   text-decoration: none;
-  color: var(--white);
-  background: var(--green);
+  color: white;
+  background: green;
 }
 
 ```
