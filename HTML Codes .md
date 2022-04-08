@@ -60,7 +60,8 @@
                 nav:false,
                 dots:false,
                 autoplay:true,
-                autoplayTimeout:1000,
+                autoplayTimeout: 3000,
+                autoplaySpeed: 1000,
                 responsive:{
                     0:{
                         items:1
