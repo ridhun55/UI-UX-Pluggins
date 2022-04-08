@@ -45,7 +45,14 @@
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
       </head>
       <body>
-        
+        <style>
+          .owl-theme .owl-dots .owl-dot span{
+               background: #ffd7b2;
+            }
+            .owl-theme .owl-dots .owl-dot.active > span{
+               background: var(--primary);
+            }
+        </style>
         
         
         <!-- Bootstrap5 JS -->
@@ -58,7 +65,7 @@
                 loop:true,
                 margin:10,
                 nav:false,
-                dots:false,
+                dots:true,
                 autoplay:true,
                 autoplayTimeout: 3000,
                 autoplaySpeed: 1000,
