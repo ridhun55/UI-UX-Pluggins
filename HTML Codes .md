@@ -91,6 +91,75 @@ OWL - https://owlcarousel2.github.io/OwlCarousel2/
 <br/>
 <br/>
 <br/>
+carousel-example
+```html
+<section id="POPULAR">
+      <div class="popular">
+         <div class="container">
+            <div class="popular-wrapper">
+               <h3 class="title">Most&nbsp;Popular</h3>
+               <div class="owl-carousel owl-theme owl-loaded">
+                  <div class="owl-carousel carousel-1 owl-theme mt-5">
+                     <div class="item">
+                        <img src="images/img-1.png" alt="">
+                        <div class="content">
+                           <h4>Some Title About This place</h4>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue at a turpis massa amet
+                              fermentum non.</p>
+                        </div>
+                     </div>
+                     <div class="item">
+                        <img src="images/img-2.png" alt="">
+                        <div class="content">
+                           <h4>Some Title About This place</h4>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue at a turpis massa amet
+                              fermentum non.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="owl-nav">
+                     <div class="owl-prev" style="background-color: transparent;">
+                        <img src="images/icons/left.svg" alt="">
+                     </div>
+                     <div class="owl-next" style="background-color: transparent;">
+                        <img src="images/icons/right.svg" alt="">
+                     </div>
+                  </div>
+                  <div class="owl-dots">
+                     <div class="owl-dot active"><span></span></div>
+                     <div class="owl-dot"><span></span></div>
+                     <div class="owl-dot"><span></span></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+
+<script>
+      $('.carousel-1').owlCarousel({
+         loop: true,
+         margin: 20,
+         nav: true,
+         dots: false,
+         autoplay: true,
+         autoplayTimeout: 3000,
+         autoplaySpeed: 1000,
+         navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+         responsive: {
+            0: {
+               items: 1
+            },
+            600: {
+               items: 1
+            },
+            1000: {
+               items: 2
+            }
+         }
+      })
+   </script>
+```
 
 
 2. <b>Scroll To Top</b> 
