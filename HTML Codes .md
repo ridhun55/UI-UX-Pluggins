@@ -93,6 +93,38 @@ OWL - https://owlcarousel2.github.io/OwlCarousel2/
 <br/>
 carousel-example
 ```html
+<style>
+  
+.owl-carousel {
+   position: relative;
+}
+
+.owl-prev,
+.owl-next {
+   position: absolute;
+   z-index: 1000;
+}
+
+.owl-prev {
+   left: -80px;
+   bottom: 50%;
+   
+   background-color: transparent;
+}
+
+.owl-next {
+   right: -80px;
+   bottom: 50%;
+}
+   .owl-theme .owl-dots .owl-dot span {
+      background: #DFDCFB;
+   }
+   
+   .owl-theme .owl-dots .owl-dot.active>span {
+      background:$primary
+   }
+}  
+</style>
 <section id="POPULAR">
       <div class="popular">
          <div class="container">
