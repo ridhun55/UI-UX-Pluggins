@@ -27,6 +27,11 @@
   }
 ```
 
+<b>4. Clamp<b/>
+ ```css
+  font-size: clamp(14px, 2vw, 20px);
+  ```
+
 # HTML
 1. <b>Bootstrap5 CDN</b> [ fontawesome + OWL ]
 ```html
@@ -331,7 +336,4 @@ $(document).ready(function () {
                         </div>
                      </a>
 ```
-<b>4. Clamp<b/>
- ```css
-  font-size: clamp(14px, 2vw, 20px);
-  ```
+
