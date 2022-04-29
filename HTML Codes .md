@@ -263,7 +263,6 @@ $(document).ready(function () {
 ```html
 <style>
 
-</style>
 .card {
   position: relative;
 }
@@ -307,6 +306,8 @@ $(document).ready(function () {
   opacity: 1;
 }
 
+  
+</style>
 
 <a href="#">
                         <div class="card">
