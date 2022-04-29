@@ -257,3 +257,76 @@ $(document).ready(function () {
 
 
 ```
+
+3. <b>Image card overlay</b> 
+
+```html
+<style>
+
+</style>
+.card {
+  position: relative;
+}
+.card img{
+  vertical-align: middle;
+}
+.card .card-overlay {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: var(--primary);
+  color: var(--black);
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+.card .card-overlay h5 {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: normal;
+}
+.card .card-overlay p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0px;
+}
+.card .card-overlay span {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+.card:hover > .card-overlay {
+  opacity: 1;
+}
+
+
+<a href="#">
+                        <div class="card">
+                           <img src="./images/projects/img1.jpg" class="card-img-top" alt="...">
+                           <div class="card-body">
+                              <h5 class="card-title">Project Name Comes Here</h5>
+                              <div class="d-flex justify-content-between">
+                                 <p class="card-text">
+                                    <i class="fas fa-map-marker-alt"></i> Location
+                                 </p>
+                                 <p class="card-text">
+                                    Project Category
+                                 </p>
+                              </div>
+                           </div>
+                           <div class="card-overlay">
+                              <h5>Project Name Comes Here</h5>
+                              <p>Kozhikode</p>
+                              <span>Project Category</span>
+                           </div>
+                        </div>
+                     </a>
+```
