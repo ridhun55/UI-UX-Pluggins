@@ -331,3 +331,7 @@ $(document).ready(function () {
                         </div>
                      </a>
 ```
+<b>4. Clamp<b/>
+ ```hrml
+  font-size: clamp(14px, 2vw, 20px);
+  ```
